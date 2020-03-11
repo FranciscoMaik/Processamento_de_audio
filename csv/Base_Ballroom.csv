@@ -1,4 +1,4 @@
-,Duration,Frequency,Bits,Channels,Class
+,Duration,Sampling_Rate,Bits,Channels,Class
 0,30.04750566893424,44100,16,1325095,Tango
 1,31.787936507936507,44100,16,1401848,Tango
 2,30.09233560090703,44100,16,1327072,Tango
